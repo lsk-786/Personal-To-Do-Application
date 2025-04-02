@@ -1,0 +1,20 @@
+[
+    {
+        "title": "study",
+        "description": "computer programming",
+        "category": "personal",
+        "completed": false
+    },
+    {
+        "title": "Prepare quarterly report",
+        "description": "Compile Q1 financial data and create presentation",
+        "category": "work",
+        "completed": false
+    },
+    {
+        "title": "study",
+        "description": "DSA",
+        "category": "Work",
+        "completed": false
+    }
+]
