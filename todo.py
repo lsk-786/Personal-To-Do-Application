@@ -1,4 +1,4 @@
-# File: todo.py
+# todo.py
 import json
 import os
 
